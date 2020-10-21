@@ -1,4 +1,4 @@
-import pass from 'pass.js'
+const pass = require('./pass')
 
 module.exports = {
 	appId: 'com.example.ElectronAutoUpdate',
